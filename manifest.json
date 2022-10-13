@@ -1,0 +1,17 @@
+{
+    "name": "Teste",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background":  {
+        "service_worker": "js/background.js"
+    },
+
+    "permissions": [
+        "tabs",
+        "scripting"
+    ],
+
+    "host_permissions":["*://www.youtube.com/"],
+
+    "action": {}
+}
