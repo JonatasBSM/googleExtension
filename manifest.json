@@ -11,7 +11,7 @@
         "scripting"
     ],
 
-    "host_permissions":["*://www.youtube.com/"],
+    "host_permissions":["file:///C:/Users/jonat/Desktop/Nova%20pasta%20(2)/teste.html"],
 
     "action": {}
 }
